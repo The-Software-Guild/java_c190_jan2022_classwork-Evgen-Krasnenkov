@@ -1,2 +1,3 @@
-helloWorld/target
-helloWorld/.idea
+.idea/*
+*.iml
+target/*
